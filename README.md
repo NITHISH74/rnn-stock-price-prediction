@@ -7,8 +7,7 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## Problem Statement and Dataset:
 
 ## Neural Network Model:
-![01](https://user-images.githubusercontent.com/94164665/235060862-71b0d2bc-d98e-479f-ab62-53bea27f4d8a.png)
-
+![image](https://user-images.githubusercontent.com/94164665/235063155-215f6b16-816d-494f-a6b9-a5d69cd90c42.png)
 ## DESIGN STEPS:
 
 ### STEP 1:

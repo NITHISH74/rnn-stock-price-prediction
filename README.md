@@ -5,6 +5,8 @@
 To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset:
+Make a Recurrent Neural Network model for predicting stock price using a training and testing dataset. The model will learn from the training dataset sample and then the testing data is pushed for testing the model accuracy for checking its accuracy. The Dataset has features of market open price, closing price, high and low price for each day.
+
 
 ## Neural Network Model:
 ![image](https://user-images.githubusercontent.com/94164665/235063155-215f6b16-816d-494f-a6b9-a5d69cd90c42.png)
